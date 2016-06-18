@@ -1,0 +1,18 @@
+{
+  "name": "rick-rolled",
+  "version": "0.0.1",
+  "description": "post unrelated videos posing as trending search headlines to rick roll people",
+  "author": "Emil Aite",
+  "license": "ISC",
+  "dependencies": {
+    "google-trends-api": "1.2.4",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emil-A/rick-rolled.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Emil-A/rick-rolled/issues"
+  },
+  "homepage": "https://github.com/Emil-A/rick-rolled#readme"
+}
